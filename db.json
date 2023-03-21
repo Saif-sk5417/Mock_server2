@@ -1,9 +1,10 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "username": "Jack",
+      "email": "jack@gmail.com" ,
+      "password":"JACK"
     }
   ]
 }
