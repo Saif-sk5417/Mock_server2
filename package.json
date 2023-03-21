@@ -1,0 +1,24 @@
+{
+  "name": "mock_server2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saif-sk5417/Mock_server2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saif-sk5417/Mock_server2/issues"
+  },
+  "homepage": "https://github.com/Saif-sk5417/Mock_server2#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
