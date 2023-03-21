@@ -10,12 +10,11 @@
   "recipes": [
     {
       "id": 1,
-      "username": "coreyschafer",
+      "username": "Jack",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Dessert",
-      "user" : "Jack",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
@@ -26,12 +25,11 @@
     },
     {
       "id": 2,
-      "username": "coreyschafer",
+      "username": "Jack",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Dessert",
-      "user" : "JacK",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
@@ -42,12 +40,11 @@
     },
     {
       "id": 3,
-      "username": "coreyschafer",
+      "username": "Rose",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Main Course",
-      "user" : "Rose",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
@@ -58,12 +55,11 @@
     },
     {
       "id": 4,
-      "username": "coreyschafer",
+      "username": "Rose",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Main Course",
-      "user" : "Rose",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
@@ -74,12 +70,11 @@
     },
     {
       "id": 5,
-      "username": "coreyschafer",
+      "username": "Black",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Starter",
-      "user" :"lion",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
@@ -90,12 +85,11 @@
     },
     {
       "id": 6,
-      "username": "coreyschafer",
+      "username": "Black",
       "title": "Hazelnut Brownies",
       "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
       "category": "Starter",
-      "user" :"lion",
       "ingredients": [
         "Hazelnut",
         "Dark chocolate",
